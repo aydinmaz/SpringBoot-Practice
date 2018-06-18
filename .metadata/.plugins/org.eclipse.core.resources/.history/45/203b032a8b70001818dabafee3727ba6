@@ -1,0 +1,5 @@
+package it.finsoft.employeerest.controller;
+
+public class Employee {
+
+}

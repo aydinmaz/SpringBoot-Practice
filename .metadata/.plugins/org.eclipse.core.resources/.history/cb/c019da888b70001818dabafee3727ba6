@@ -1,0 +1,5 @@
+package it.finsoft.employeerest.model;
+
+public class Employee {
+
+}
